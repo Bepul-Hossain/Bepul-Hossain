@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<<<<<<< HEAD
 <div align="center">
 	<img src="https://media.giphy.com/media/XfgohgZV0aKWV9txqZ/giphy.gif">
 </div>
+=======
+![giphy](https://github.com/Bepul-Hossain/Bepul-Hossain.git)
+>>>>>>> 0cabbeef15e07c95e1a644c9c1d3dee80e0d5077
