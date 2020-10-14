@@ -1,4 +1,4 @@
-d### Hi there 👋
+Hi there 👋
 
 <!--
 **Bepul-Hossain/Bepul-Hossain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -37,10 +37,7 @@ Here are some ideas to get you started:
 </details>
 
 <details>
-<summary>Coding Activity over last 7 days</summary>
-<div align="center">
-
-<img src="https://wakatime.com/share/@86e21fde-46fe-4d1f-a609-23b32940609a/3b253568-cfc0-47f0-84f5-db3300994af4.svg">
-
-</div>
+<summary>Coding Activity over last 14 days</summary>
+&nbsp; &nbsp; This url open in new tab.
+<a href="https://wakatime.com/@86e21fde-46fe-4d1f-a609-23b32940609a/projects/lvawfagtvi?start=2020-10-01&end=2020-10-14" target="_blank">Click here. </a>
 </details>
