@@ -1,4 +1,4 @@
-### Hi there 👋
+d### Hi there 👋
 
 <!--
 **Bepul-Hossain/Bepul-Hossain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,7 +22,13 @@ Here are some ideas to get you started:
 <details>
  <summary>Bepul-Hossain's github stats</summary>
 
+<div align="center>
+
  [![Bepul-Hossain's github stats](https://github-readme-stats.vercel.app/api?username=Bepul-Hossain&hide=stars&show_icons=true)](https://github.com/bepul-hossain/github-readme-stats)
+ 
+</div>
+
+
 
 </details>
 
