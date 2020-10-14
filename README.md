@@ -21,30 +21,26 @@ Here are some ideas to get you started:
 
 <details>
  <summary>Bepul-Hossain's github stats</summary>
-
 <div align="center">
 
- [![Bepul-Hossain's github stats](https://github-readme-stats.vercel.app/api?username=Bepul-Hossain&hide=stars&show_icons=true)](https://github.com/bepul-hossain/github-readme-stats)
+[![Bepul-Hossain's github stats](https://github-readme-stats.vercel.app/api?username=Bepul-Hossain&hide=stars&show_icons=true)](https://github.com/bepul-hossain/github-readme-stats)
 
 </div>
-
-
-
 </details>
 
 <details>
  <summary>Most Used Languages</summary>
+<div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bepul-Hossain&layout=compact)](https://github.com/Bepul-Hossain/github-readme-stats)
-
+</div>
 </details>
 
 <details>
 <summary>Coding Activity over last 7 days</summary>
-
+<div align="center">
 
 <img src="https://wakatime.com/share/@86e21fde-46fe-4d1f-a609-23b32940609a/3b253568-cfc0-47f0-84f5-db3300994af4.svg">
 
+</div>
 </details>
-
-
