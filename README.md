@@ -22,10 +22,10 @@ Here are some ideas to get you started:
 <details>
  <summary>Bepul-Hossain's github stats</summary>
 
-<div align="center>
+<div align="center">
 
  [![Bepul-Hossain's github stats](https://github-readme-stats.vercel.app/api?username=Bepul-Hossain&hide=stars&show_icons=true)](https://github.com/bepul-hossain/github-readme-stats)
- 
+
 </div>
 
 
