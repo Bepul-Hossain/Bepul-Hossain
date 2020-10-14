@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <details>
  <summary>Bepul-Hossain's github stats</summary>
-<div align="center">
+<div align="center" height="400px">
 
 [![Bepul-Hossain's github stats](https://github-readme-stats.vercel.app/api?username=Bepul-Hossain&hide=stars&show_icons=true)](https://github.com/bepul-hossain/github-readme-stats)
 
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 <details>
  <summary>Most Used Languages</summary>
-<div align="center">
+<div align="center" height="400px">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bepul-Hossain&layout=compact)](https://github.com/Bepul-Hossain/github-readme-stats)
 </div>
