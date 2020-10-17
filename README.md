@@ -38,3 +38,4 @@ Here are some ideas to get you started:
 
 To show coding Activity over last 7 days
 <a href="https://wakatime.com/share/@86e21fde-46fe-4d1f-a609-23b32940609a/b323f965-87e0-460e-8253-26d74e35eeba.svg">Click here </a>
+
