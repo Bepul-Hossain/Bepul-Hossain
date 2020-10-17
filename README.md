@@ -36,5 +36,5 @@ Here are some ideas to get you started:
 </div>
 </details>
 
-
-<a href="https://wakatime.com/@86e21fde-46fe-4d1f-a609-23b32940609a/projects/lvawfagtvi?start=2020-10-01&end=2020-10-14" target="_blank">Click here </a>to show coding Activity over last 14 days
+To show coding Activity over last 7 days
+<a href="https://wakatime.com/share/@86e21fde-46fe-4d1f-a609-23b32940609a/b323f965-87e0-460e-8253-26d74e35eeba.svg">Click here </a>
