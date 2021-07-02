@@ -23,7 +23,7 @@ Here are some ideas to get you started:
  <summary>Bepul-Hossain's github stats</summary>
 <div align="center" height="400px">
 
-[![Bepul-Hossain's github stats](https://github-readme-stats.vercel.app/api?username=Bepul-Hossain&show_icons=true)](https://github.com/bepul-hossain/github-readme-stats)
+[![Bepul-Hossain's github stats](https://github-readme-stats.vercel.app/api?username=Bepul-Hossain&hide=stars&show_icons=true)](https://github.com/bepul-hossain/github-readme-stats)
 
 </div>
 </details>
